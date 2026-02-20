@@ -9,7 +9,7 @@ function App() {
       <Navbar />
       <Login />
       <Dashboard />
-      <profile />
+      <Profile />
     </>
   )
 }
